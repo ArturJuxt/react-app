@@ -1,0 +1,17 @@
+.navbar {
+    background-color:rgb(37, 60, 192);
+
+    display: grid;
+    grid-area: n;
+    grid-template-rows: 30% 30% 30%;
+}
+
+.navbar span {
+    font-size: 22px;
+    color: yellow;
+}
+
+.navbar p {
+    padding: 0 10px;
+    color: white;
+}

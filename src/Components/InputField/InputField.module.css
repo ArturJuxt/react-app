@@ -1,0 +1,12 @@
+.title {
+    padding-bottom: 5px;
+}
+
+.title input {
+    width: 80px;
+}
+
+label {
+    font-size: 18px;
+    color: thistle;
+}

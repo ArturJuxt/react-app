@@ -1,0 +1,17 @@
+.subbar {
+    background-color: rgb(37, 60, 192);
+
+    display: grid;
+    grid-area: s;
+    grid-template-rows: 30% 30%;
+}
+
+.subbar span {
+    font-size: 22px;
+    color: yellow;
+}
+
+.subbar p {
+    padding: 0 10px;
+    color: white;
+}

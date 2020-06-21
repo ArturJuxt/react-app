@@ -1,0 +1,18 @@
+.list .title {
+    font-size: 22px;
+    color: yellow;
+}
+
+.list .author {
+  color: black;
+  padding-left: 20px;
+}
+
+.list .author_name {
+    color: aqua;
+}
+
+.list p {
+    padding: 0 10px;
+    color: white;
+}

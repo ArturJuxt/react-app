@@ -1,0 +1,11 @@
+.stepForm {
+    text-align: center;
+    background-color: rgb(59, 145, 172);
+    height: 600px;
+}
+
+.stepper {
+    width: 18%;
+    margin: 0 auto;
+    background-color: rgb(59, 145, 172) !important;
+}

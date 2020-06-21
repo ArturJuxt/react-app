@@ -1,0 +1,11 @@
+.main ul{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    list-style: none;
+    font-size: 20px;
+}
+
+.main ul li {
+    padding: 3px;
+    text-align: center;
+}

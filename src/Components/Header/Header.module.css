@@ -1,3 +1,20 @@
 .header {
-    border: solid 1px black;
+    background-color: royalblue;
+
+    display: grid;
+    grid-area: h;
+
+    display: grid;
+    grid-template-columns: 1fr 4fr 5fr 3fr;
+    text-decoration: none;
 }
+
+
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+

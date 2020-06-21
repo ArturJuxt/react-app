@@ -1,0 +1,15 @@
+.in {
+    text-align: center;
+}
+.in span {
+  font-size: 16px;
+}
+
+.in input {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.in p {
+    font-size: 12px;
+}
